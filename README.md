@@ -1,11 +1,13 @@
 ## Hi there 👋
-
+## My Name is Joshua Allen and im pursuing a degree in applied computing while also working full time as an investment advisor. 
+## My hobbies include playing video games and also hanging out with my dog.
+## I am also a biiiiiig sports fan so finding time to watch all my sports in between coursework during the fall semester is always tricky. 
 <!--
 **Josh3453/Josh3453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  ## I’m currently working on my degree in applied computing. 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
